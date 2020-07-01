@@ -11,7 +11,7 @@
 		<property name="warfile" value ="mywebapp" />
 		<property name="html_dir" value ="./web" />
 		<property name="webinf_dir" value ="./WEB-INF" />
-		<property name="tomcat_dir" value ="/var/lib/tomcat8/webapps"/>
+		<property name="tomcat_dir" value ="/root" />
 		<path id="compiler_path">
 			<fileset dir="${lib_dir}">
 				<include name="*.jar" />
